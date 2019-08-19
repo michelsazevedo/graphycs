@@ -20,7 +20,7 @@ If you haven't used Docker before, it would be good idea to read this article fi
 
 2. Run `docker run -it -w=/usr/graphycs/ -v=$(pwd)/:/usr/graphycs/ node yarn build` to build the project dist.
 
-3. Finally, run `open dist.index.html` and graphycs should be running on your browser.
+3. Finally, run `open dist/index.html` and graphycs should be running on your browser.
 
 ## License
 Copyright © 2019
