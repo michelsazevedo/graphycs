@@ -53,7 +53,7 @@ WowChart.propTypes = {
 }
 
 WowChart.defaultProps = {
-  chartType: "LineChart",
+  chartType: "Line",
   data: [],
   options: {},
   width: "80%",
